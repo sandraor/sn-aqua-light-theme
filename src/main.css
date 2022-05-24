@@ -1,29 +1,31 @@
---sn-stylekit-neutral-color: #62B9BF;
+:root {
+  --sn-stylekit-neutral-color: #62B9BF;
 
---sn-stylekit-info-color: #29969E;
---sn-stylekit-info-color-darkened: #19666B;
---sn-stylekit-info-backdrop-color: #19666B0F;
+  --sn-stylekit-info-color: #29969E;
+  --sn-stylekit-info-color-darkened: #19666B;
+  --sn-stylekit-info-backdrop-color: #19666B0F;
 
---sn-stylekit-background-color: #FFFFFF;
---sn-stylekit-border-color: #DAF1F2;
+  --sn-stylekit-background-color: #FFFFFF;
+  --sn-stylekit-border-color: #DAF1F2;
 
---sn-stylekit-foreground-color: #252525;
+  --sn-stylekit-foreground-color: #252525;
 
---sn-stylekit-contrast-background-color: #FFFFFF;
---sn-stylekit-contrast-foreground-color: var(--sn-stylekit-foreground-color);
---sn-stylekit-contrast-border-color: var(--sn-stylekit-border-color);
+  --sn-stylekit-contrast-background-color: #FFFFFF;
+  --sn-stylekit-contrast-foreground-color: var(--sn-stylekit-foreground-color);
+  --sn-stylekit-contrast-border-color: var(--sn-stylekit-border-color);
 
---sn-stylekit-secondary-background-color: #E4F5EC;
---sn-stylekit-secondary-foreground-color: var(--sn-stylekit-foreground-color);
---sn-stylekit-secondary-border-color: var(--sn-stylekit-border-color);
+  --sn-stylekit-secondary-background-color: #E4F5EC;
+  --sn-stylekit-secondary-foreground-color: var(--sn-stylekit-foreground-color);
+  --sn-stylekit-secondary-border-color: var(--sn-stylekit-border-color);
 
---sn-stylekit-secondary-contrast-background-color: #DAF1F2;
---sn-stylekit-secondary-contrast-foreground-color: var(--sn-stylekit-foreground-color);
+  --sn-stylekit-secondary-contrast-background-color: #DAF1F2;
+  --sn-stylekit-secondary-contrast-foreground-color: var(--sn-stylekit-foreground-color);
 
---sn-stylekit-editor-background-color: #FFFFFF;
+  --sn-stylekit-editor-background-color: #FFFFFF;
 
---sn-stylekit-input-placeholder-color: var(--sn-stylekit-grey-1);
---sn-stylekit-input-border-color: var(--sn-stylekit-border-color);
+  --sn-stylekit-input-placeholder-color: var(--sn-stylekit-grey-1);
+  --sn-stylekit-input-border-color: var(--sn-stylekit-border-color);
+}
 
 /* Notes list: Fix content jump when note selected */
 #notes-column .note, .notes .note {
