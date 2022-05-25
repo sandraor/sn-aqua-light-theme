@@ -14,7 +14,7 @@ A light teal and white theme for Standard Notes.
 4. Scroll to the bottom of the page and click "Advanced Settings" to expand the options.
 5. Scroll to the "Install Custom Extension" section at the bottom.
 6. Enter this URL in the field and click "Install".
-````https://cdn.jsdelivr.net/gh/sandraor/sn-aqua-light-theme@main/ext.json````
+````https://cdn.jsdelivr.net/gh/sandraor/sn-aqua-light-theme@v1.0.3/ext.json````
 
 ### Using the theme
 
