@@ -1,4 +1,6 @@
 :root {
+  --sn-stylekit-grey-5: #F5FAFA;
+
   --sn-stylekit-neutral-color: #62B9BF;
 
   --sn-stylekit-info-color: #29969E;
@@ -14,7 +16,7 @@
   --sn-stylekit-contrast-foreground-color: var(--sn-stylekit-foreground-color);
   --sn-stylekit-contrast-border-color: var(--sn-stylekit-border-color);
 
-  --sn-stylekit-secondary-background-color: #E4F5EC;
+  --sn-stylekit-secondary-background-color: #F5FAFA;
   --sn-stylekit-secondary-foreground-color: var(--sn-stylekit-foreground-color);
   --sn-stylekit-secondary-border-color: var(--sn-stylekit-border-color);
 
